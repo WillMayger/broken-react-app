@@ -1,8 +1,8 @@
-# Starters-test
+# Broken react app
 
 Please read this entire document before beginning the test.
 
-This is your interview test.
+This is your test.
 Here is a broken application built using React and ES6 among other things.
 
 The main priority will be to get it working like in the photos below, however, the code needs to be valid ES6 code, in good form.
